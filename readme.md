@@ -6,5 +6,7 @@
 - HOFs
 - Web Storage
 
+![Project Gif](./rosa-shopping.png)
+
 ### Final result looks like
 ![image result](result.png)
