@@ -6,7 +6,7 @@
 - HOFs
 - Web Storage
 
-![Rosa shopping video](./Rosa-shopping.mp4)
+![Result video](./result.gif)
 
 ### Final result looks like
 ![image result](result.png)
