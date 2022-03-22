@@ -6,6 +6,6 @@
 - HOFs
 - Web Storage
 
-### Link: https://carlosesrosa.github.io/Rosa-shopping/
-### Final result looks like
+#### Link: https://carlosesrosa.github.io/Rosa-shopping/
+#### Final result looks like
 ![Result video](./result.gif)
